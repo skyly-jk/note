@@ -21,3 +21,29 @@
       ```
 
         在服务中即可找到redis的服务
+      
+      ## 基础指令
+      
+      ​	redis数据主要分为string,hash,set,sorted_set几种数据类型
+      
+      1.string
+      
+      - redis对于string类型数据的存储空间
+      
+      - 添加/修改数据
+      
+        ```
+        set <key> <value>
+        ```
+      
+        
+      
+      2.hash
+      
+      
+      
+      3.list
+      
+      
+      
+      4.set
